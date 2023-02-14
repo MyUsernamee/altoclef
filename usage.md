@@ -1,7 +1,7 @@
 # Usage Guide
 
 Alto Clef has a variety of commands, settings and modes. This will give users an overview on how to use the bot.
-
+Hi
 Keep in mind this project is still in rapid development. A lot of features are placeholders and a work in progress.
 
 ## Commands
